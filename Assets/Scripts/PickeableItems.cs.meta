@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0ae833a37dab11041acb5f8774ebbbcf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pocha: {fileID: 11400000, guid: d9070ef6e899e5f4a8cf6c8c0843f107, type: 2}
+  - chula: {fileID: 11400000, guid: 9c4f5d4477e8b2a4dba7897d7e7a4ca2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
